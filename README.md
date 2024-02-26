@@ -1,2 +1,2 @@
-# VybikaDragonex
-Minecraft event plugin pro dragonex
+# PluginyDragonex
+Několik pluginů které byli vytvořeny pro Dragonex
