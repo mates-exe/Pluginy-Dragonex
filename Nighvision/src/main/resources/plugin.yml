@@ -1,0 +1,10 @@
+name: Nightvision
+version: ${project.version}
+main: me.mates.nightvision.Nightvision
+api-version: 1.16
+authors: [ mates ]
+description: toggle night vision
+commands:
+  nightvision:
+    description: dá ti nightvision
+    aliases: [nv]

@@ -1,0 +1,11 @@
+name: Vybika
+version: ${project.version}
+main: me.mates.vybika.Vybika
+api-version: 1.16
+authors: [ mates ]
+description: Plugin na hraní vybíjené
+commands:
+  gg:
+    description: vyber teamu
+  startevent:
+    description: startne event

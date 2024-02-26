@@ -1,0 +1,9 @@
+me\mates\vybika\events\noDrop.class
+me\mates\vybika\events\onRespawn.class
+me\mates\vybika\events\noBreak.class
+me\mates\vybika\events\onJoin.class
+me\mates\vybika\commands\gg.class
+me\mates\vybika\events\onDeath.class
+me\mates\vybika\events\noHunger.class
+me\mates\vybika\Vybika.class
+me\mates\vybika\commands\startevent.class

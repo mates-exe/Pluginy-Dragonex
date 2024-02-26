@@ -1,0 +1,10 @@
+name: AuPlugin
+version: 1.0
+main: me.mates.auplugin.AuPlugin
+api-version: 1.16
+authors: [ mates ]
+description: authme custom plugin
+commands:
+  visible:
+    description: zviditelni te kokos
+    aliases: [zviditelnit]

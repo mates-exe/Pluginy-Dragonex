@@ -1,0 +1,6 @@
+name: DNLobby
+version: ${project.version}
+main: me.mates.dnlobby.DNLobby
+api-version: 1.16
+authors: [ mates ]
+description: lobby core
